@@ -1,9 +1,12 @@
 import reflex as rx
+import reflex.components.radix.themes as rdxt
+
 
 import constants
 from portafolio.styles.styles import Size
 from portafolio.styles.colors import Color, TextColor
 from portafolio.components.link_button import navbar_link_button, icon_button
+
 
 def navbar() -> rx.component:
     return rx.hstack(
@@ -30,7 +33,7 @@ def navbar() -> rx.component:
                     navbar_link_button("Contact me", "", False),
                 ),
                 rx.button_group(  # Social links
-                    icon_button("/github.svg", constants.GITHUB_WEBSITE, True),
+                    icon_button(rdxt.avatar(src="",), constants.GITHUB_WEBSITE, True),
                     navbar_link_button("Fiverr", constants.FIVERR_WEBSITE, True),
                 )
             ),
