@@ -32,7 +32,7 @@ def header() -> rx.Component:
             rx.vstack(
                 rx.box(
                     rx.text("Iván Sevilla", font_size="5em", font_family=Font.TITLE.value, weight="bold"),
-                    rx.text("Explorando el mundo a través del código.", size="5"),
+                    rx.text("Exploring the world trough code.", size="5"),
                     intern_button("See projects", "", "4"),
                     padding_y="15em",
                     padding_x="10em",
