@@ -17,16 +17,17 @@ def navbar_link_button(text: str, url: str, external: bool):
     )
 
 
-def icon_button(img: str, url: str, external: bool):
+def intern_button(text: str, url: str, size: str):
     return rx.link(
         rx.button(
-            rx.image(
-                src=img,
-                width=Size.BIG.value,
-                height=Size.BIG.value,
-            )
+            text,
+            font_family=Font.DEFAULT.value,
+            color=Color.color_blue.value,
+            size=size,
+            text_color=Color.color_black.value,
         ),
-        href=url,
-        button=True,
-        is_external=external,
+        scr=url,
+        is_external=False,
+        padding_x="1em",
+        padding_y="1em",
     )

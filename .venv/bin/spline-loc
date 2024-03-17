@@ -1,0 +1,5 @@
+#!/home/ivan321pum/Documentos/GitHub/Personal-Briefcase-web/.venv/bin/python3
+from spline.tools.loc.application import click_main
+
+if __name__ == "__main__":
+    click_main()

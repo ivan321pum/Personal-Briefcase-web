@@ -1,0 +1,5 @@
+#!/home/ivan321pum/Documentos/GitHub/Personal-Briefcase-web/.venv/bin/python3
+from spline.application import main
+
+if __name__ == "__main__":
+    main()
