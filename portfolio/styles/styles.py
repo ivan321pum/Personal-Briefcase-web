@@ -1,7 +1,7 @@
 import reflex as rx
 from enum import Enum
 from .fonts import Font
-from .colors import TextColor, Color
+from .colors import Color
 
 class Size(Enum):
     SMALL = "0.5em"
@@ -12,12 +12,13 @@ class Size(Enum):
 
 STYLESHEETS = [
     "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css",
-    "https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+    "https://fonts.googleapis.com/css2?family=Roboto&display=swap",
+    "https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap",
 ]
 
 BASE_STYLE = {
     "font_family": Font.DEFAULT.value,
-    "color": TextColor.main.value,
-    "background": Color.secondary.value,
+    "color": Color.color_black.value,
+    "background": Color.color_white.value,
     "font_size": Size.DEFAULT.value
 }

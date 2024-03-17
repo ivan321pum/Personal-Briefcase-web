@@ -1,14 +1,19 @@
 import reflex as rx
-from portfolio.styles.colors import TextColor
 from portfolio.styles.styles import Size
+from portfolio.styles.colors import Color
+from portfolio.styles.fonts import Font
 
 
 def navbar_link_button(text: str, url: str, external: bool):
     return rx.link(
-        rx.button(text, color=TextColor.titles.value),
+        text,
+        color=Color.color_black.value,
+        size="3",
         href=url,
         button=True,
         is_external=external,
+        padding_x=Size.DEFAULT.value,
+        font_family=Font.DEFAULT.value,
     )
 
 

@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df50019b-b2e7-4d14-92fe-8fa0a793093e" name="Changes" comment="" />
+    <list default="true" id="df50019b-b2e7-4d14-92fe-8fa0a793093e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/lottie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/components/link_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/components/link_button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/styles/colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/styles/colors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/styles/fonts.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/styles/fonts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/styles/styles.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/styles/styles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/views/header.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views/header.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/views/navbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views/navbar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/views/updated_navbar.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +26,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2dlfsCO2aO1ATZ0fxKZQuPuzjcx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,9 +45,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/ivan321pum/Documentos/BEb fea",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ivan321pum/Documentos/GitHub/Personal-Briefcase-web",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -39,6 +59,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Personal-Briefcase-web" />
@@ -80,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710587790748</updated>
       <workItem from="1710587792002" duration="1469000" />
+      <workItem from="1710681136380" duration="6872000" />
     </task>
     <servers />
   </component>
