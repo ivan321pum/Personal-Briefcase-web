@@ -14,6 +14,8 @@ STYLESHEETS = [
     "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css",
     "https://fonts.googleapis.com/css2?family=Roboto&display=swap",
     "https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap",
+    "https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+    "portfolio/avatar.css"
 ]
 
 BASE_STYLE = {

@@ -4,13 +4,15 @@ import constants
 from portfolio.styles.styles import Size
 from portfolio.styles.colors import Color
 from portfolio.components.link_button import navbar_link_button
+from portfolio.components.link_button import icon_button
 from portfolio.styles.fonts import Font
+from portfolio.components.link_button import navbar_link_format_button
 
 
 def navbar() -> rx.Component:
     return rx.hstack(
         rx.hstack(
-            rx.avatar(size="2"),
+            rx.avatar(size="2", src="https://media.ambito.com/p/5e5252532d14100c40241c6912bdfdd0/adjuntos/239/imagenes/039/038/0039038503/queen-john-deaconjpg.jpg"),
             rx.text(
                 "Iván Sevilla Gómez",
                 as_="b",
@@ -26,7 +28,10 @@ def navbar() -> rx.Component:
                     navbar_link_button("About Me", "", False),
                     navbar_link_button("My Skills", "", False),
                     navbar_link_button("Projects", "", False),
-                    navbar_link_button("Contact me", "", False),
+                    navbar_link_format_button("Contact me", "", False, "b"),
+                    icon_button("github", "https://github.com/ivan321pum", True),
+                    icon_button("fiverr", " https://es.fiverr.com/codeshark_", True),
+                    icon_button("freelancer", "https://www.freelancer.com/u/codeshark2", True),
                 ),
             ),
         ),

@@ -2,6 +2,7 @@ import reflex as rx
 import portfolio.styles.styles as styles  # importa el script de estilos
 from portfolio.views.header import header
 from portfolio.views.navbar import navbar
+from portfolio.views.about_me import about_me
 
 
 def index() -> rx.Component:
@@ -9,6 +10,7 @@ def index() -> rx.Component:
     return rx.box(
         navbar(),
         header(),
+        about_me(),
     )
 
 

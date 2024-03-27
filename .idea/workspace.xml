@@ -5,7 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df50019b-b2e7-4d14-92fe-8fa0a793093e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/Orange and Green Colorful A4 Document Page Border Landscape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/views/about_me.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.4.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.4.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.4.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.4.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.4.dist-info/REQUESTED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.4.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.4.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/.templates/jinja/web/pages/stateful_component.js.jinja2" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/.templates/jinja/web/pages/stateful_component.js.jinja2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/.templates/web/utils/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/.templates/web/utils/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/app_module_for_backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/app_module_for_backend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/compiler/compiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/compiler/compiler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/compiler/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/compiler/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/component.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/component.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/core/upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/core/upload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/core/upload.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/core/upload.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/el/elements/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/el/elements/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/markdown/markdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/markdown/markdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/radix/themes/components/radio_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/radix/themes/components/radio_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/radix/themes/components/select.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/radix/themes/components/select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/radix/themes/components/select.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/radix/themes/components/select.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/radix/themes/layout/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/radix/themes/layout/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/radix/themes/layout/list.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/components/radix/themes/layout/list.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/constants/installer.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/constants/installer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/constants/route.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/constants/route.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/event.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/state.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/utils/exec.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/utils/exec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/utils/format.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/utils/format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/utils/prerequisites.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/utils/prerequisites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/utils/processes.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/utils/processes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/utils/telemetry.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/utils/telemetry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/vars.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex/vars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/components/link_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/components/link_button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/lottie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/styles/fonts.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/styles/fonts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/styles/styles.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/styles/styles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio/views/header.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views/header.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/views/navbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views/navbar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +65,7 @@
         <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="Python Script" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -40,16 +88,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/ivan321pum/Documentos/GitHub/Personal-Briefcase-web",
+    "last_opened_file_path": "/home/ivan321pum/Documentos/GitHub/Personal-Briefcase-web/assets",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "proofread",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio" />
       <recent name="$PROJECT_DIR$" />
@@ -96,7 +149,11 @@
       <option name="presentableId" value="Default" />
       <updated>1710587790748</updated>
       <workItem from="1710587792002" duration="1469000" />
-      <workItem from="1710681136380" duration="12002000" />
+      <workItem from="1710681136380" duration="12026000" />
+      <workItem from="1710707457475" duration="4482000" />
+      <workItem from="1710782191459" duration="538000" />
+      <workItem from="1710850508871" duration="4595000" />
+      <workItem from="1711547005411" duration="8512000" />
     </task>
     <servers />
   </component>

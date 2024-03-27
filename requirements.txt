@@ -1,1 +1,5 @@
+component==0.0.1
+pip==24.0
 reflex==0.4.4
+spline==1.12
+styles==0.2.0
