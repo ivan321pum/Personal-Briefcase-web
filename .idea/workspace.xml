@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df50019b-b2e7-4d14-92fe-8fa0a793093e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/xd.lck" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/components/card.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/queen-john-deaconjpg.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/styles/colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/styles/colors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/views/about_me.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views/about_me.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/views/navbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views/navbar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +20,8 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="Python Script" />
         <option value="CSS File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -114,7 +111,7 @@
       <workItem from="1710850508871" duration="4595000" />
       <workItem from="1711547005411" duration="8512000" />
       <workItem from="1711615463506" duration="2719000" />
-      <workItem from="1712002363951" duration="2837000" />
+      <workItem from="1712002363951" duration="4447000" />
     </task>
     <servers />
   </component>
