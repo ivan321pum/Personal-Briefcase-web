@@ -28,6 +28,7 @@ def navbar_link_format_button(text: str, url: str, external: bool, format: str):
         is_external=external,
         padding_x=Size.DEFAULT.value,
         font_family=Font.DEFAULT.value,
+        class_name="scroll-smooth"
     )
 
 

@@ -16,6 +16,7 @@ STYLESHEETS = [
     "https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap",
     "https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
     "portfolio/avatar.css"
+    "https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"
 ]
 
 BASE_STYLE = {
