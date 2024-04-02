@@ -25,7 +25,7 @@ def navbar() -> rx.Component:
         rx.hstack(
             rx.vstack(
                 rx.hstack(
-                    navbar_link_button("About Me", "", False),
+                    navbar_link_button("About Me", "#about-me", False),
                     navbar_link_button("My Skills", "", False),
                     navbar_link_button("Projects", "", False),
                     navbar_link_format_button("Contact me", "", False, "b"),
