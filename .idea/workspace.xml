@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df50019b-b2e7-4d14-92fe-8fa0a793093e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/views/index/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/views/projects/projects.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.6.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.6.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.6.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.6.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.6.dist-info/REQUESTED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.6.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/reflex-0.4.6.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/portfolio.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/portfolio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/views/about_me.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views/index/about_me.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/views/header.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views/index/header.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/views/navbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views/index/navbar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/views/projects.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/views/index/projects.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
       <recent name="$PROJECT_DIR$/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/views/index" />
       <recent name="$PROJECT_DIR$/portfolio" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -122,6 +124,8 @@
       <workItem from="1712090074287" duration="3670000" />
       <workItem from="1712228192915" duration="666000" />
       <workItem from="1713464774160" duration="380000" />
+      <workItem from="1715012890014" duration="14000" />
+      <workItem from="1715013230123" duration="1821000" />
     </task>
     <servers />
   </component>
