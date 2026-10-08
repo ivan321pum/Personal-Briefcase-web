@@ -10,7 +10,7 @@ This repository contains a first attempt at developing my personal portfolio ent
 
 ## 📝 Reason for Abandonment (Deprecation Notice)
 
-The project was started with the goal of unifying web development under a 100% Python environment. However, it was eventually abandoned because, at the time of its development, **Reflex was in a very early stage ("too green")**. 
+The project was started with the goal of unifying web development under a 100% Python environment. However, it was eventually abandoned because, at the time of its development, **Reflex was in a very early stage**. 
 
 Although it is a promising tool, it presented several critical limitations for this specific use case:
 - **Performance and Load Times:** The overhead of running a WebSocket/React-based architecture generated from Python heavily penalized performance for a website that should be purely static.
